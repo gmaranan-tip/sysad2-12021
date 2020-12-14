@@ -2,11 +2,11 @@
 **December 14, 2020**
 
 ### Roles included
-Role1 - python
-Role2 - Java
-Role3 - Change Message of the Day [MOTD]
-Role4 - Create User
+Role1 - python <br>
+Role2 - Java <br>
+Role3 - Change Message of the Day [MOTD] <br>
+Role4 - Create User <br>
 
-.gitignore
+**.gitignore**
  - ansible.cfg
  - inventory
